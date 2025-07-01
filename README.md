@@ -16,3 +16,4 @@
 - Line
 - Firefox
 - Webex
+- Notion, best app ever
